@@ -9,7 +9,7 @@ body {
 }
 .ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .bg-top {background:url(../images/bg-top.jpg) center 0 repeat-x; width:100%;  }
-.bgr {background:url(../images/bg.jpg); center 0 ; width:100%; background-repeat:repeat;}
+.bgr {background:url(../images/bg_small.jpg); center 0 ; width:100%; background-repeat:repeat;}
 
 /***********************************************************************/
 a {text-decoration:none; cursor:pointer;text-decoration:none; }
