@@ -283,3 +283,4 @@ dl.adr dd a:hover {}
 #form label strong {font-weight:normal; float:left; text-align:right; display:inline-block; width:60px; padding-top:4px; padding-right:9px;}
 .btns {text-align:right; width:310px; padding-top:6px;}
 .btns a {display:inline-block; margin:0 0px 0 20px;}
+ #map-canvas {width: 500px;height: 400px;}
