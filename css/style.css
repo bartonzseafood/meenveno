@@ -104,7 +104,8 @@ ul.menu li {float:left; border-left:#233380 1px solid; display:inline-block;}
 ul.menu li:first-child {border-left:none !important;}
 ul.menu li:first-child a { width:156px !important;}
 ul.menu li a { width:155px; color:#fff; font-size:14px; line-height:20px;  padding: 10px 0 14px 0; background:#233380; border:#233380 1px solid; border-bottom:none !important; display:block; text-align:center;}
-ul.menu li:hover a, ul.menu li.current a  { background:#669cdc; }
+ul.menu li:hover a.active, ul.menu li.current a.active  { background:#669cdc; }
+ul.menu li a.inactive{ cursor:none; }
 
 .phone-icon {
 	position:absolute; 
